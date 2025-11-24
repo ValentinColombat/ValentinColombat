@@ -54,9 +54,10 @@ Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Pro
 - 🎯 **Ouvert à** : projets collaboratifs, échanges techniques, proposition de poste
 
 ---
-# 📊GitHub Stats :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinColombat&theme=radical&hide_border=false)<br>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ValentinColombat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinColombat&theme=radical&hide_border=false)<br/>
 
 ---
 *Dernière mise à jour: Novembre 2025*
