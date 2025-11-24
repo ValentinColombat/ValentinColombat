@@ -7,7 +7,6 @@ Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Pro
 
 *Je communique facilement et clairement, j'ai la capacité à prendre le lead sur un projet et à dynamiser les équipes tout en gardant rigueur et organisation. Ma capacité d'adaptation est ma plus grande force et mon empathie ce dont je suis le plus fier.*
 
-
 ---
 
 ## 🎯 Focus 2026
@@ -32,9 +31,19 @@ Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Pro
 ---
 ## 🚀 Projets en cours
 
+- **Up News** : Application mobile iOS qui diffuse des bonnes nouvelle sur des sujets positifs incluant l'écologie, le social, les sciences et la culture via un widget iOS. L'application du contenu en multi-formats (texte, audio, visuel/animation 2D), et propose un système de gamification avec points et carte du monde interactive à débloquer.
+  
+- **Portfolio personnel** : Apprentissage de React & Typescript pour créer et gérer mon portfolio personnel [cliquez ici pour voir le site](https://valentincolombat.netlify.app)
+
 ---
 
 ## 🌱 Ce que j'apprends en ce moment
+
+- Docker
+- React
+- Swift
+- WidgetKit
+- Supabase 
 
 ---
 
