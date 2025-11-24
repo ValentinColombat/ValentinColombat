@@ -39,11 +39,11 @@ Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Pro
 
 ## 🌱 Ce que j'apprends en ce moment
 
-- Docker
-- React
-- Swift
-- WidgetKit
-- Supabase 
+Docker - Docker Compose pour orchestrer multi-conteneurs
+React - React Server Components (RSC)
+Swift - SwiftUI pour interfaces déclaratives modernes
+WidgetKit - Interactive Widgets (iOS 17+)
+Supabase - Row Level Security (RLS) policies 
 
 ---
 
