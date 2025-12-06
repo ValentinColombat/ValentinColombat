@@ -18,7 +18,7 @@ Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Pro
 
 ## 🔧 Stack Technique
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker,sequelize,js,postgres,svelte,react,swift,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker,sequelize,js,postgres,svelte,react,swift,supabase)](https://skillicons.dev)
 
 - **Backend** : Node.js, Express, Postman
 - **Frontend** : Sveltekit, React, Swift
