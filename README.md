@@ -1,4 +1,4 @@
-# Valentin Colombat
+# 👋 Salut, Moi c'est Valentin 🖥️📱 
 
 Développeur Full-Stack spécialisé en intégration d’IA et automatisation.
 
