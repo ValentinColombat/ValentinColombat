@@ -1,63 +1,100 @@
-# 👋🏻 Salut, Moi c'est Valentin 🇫🇷🏔️🌊
+# Valentin Colombat
 
-## Formé chez O'Clock 
-Spécialisation : Docker • PostgreSQL • Sequelize • Security first • Prompt Engineering
+Développeur Full-Stack spécialisé en intégration d’IA et automatisation.
 
-**Developpeur Fullstack livré avec un package de soft skills** 🚚 
+Je conçois des applications qui utilisent l’IA de manière utile et mesurable, avec une attention particulière portée à la pertinence métier et à l’expérience utilisateur.
 
-*Je communique facilement et clairement, j'ai la capacité à prendre le lead sur un projet et à dynamiser les équipes tout en gardant rigueur et organisation. Ma capacité d'adaptation est ma plus grande force et mon empathie ce dont je suis le plus fier.*
+Mon terrain de jeu : transformer des processus manuels en systèmes automatisés fiables, lisibles et maintenables.
 
 ---
 
-## 🎯 Focus 2026
+## Positionnement
 
-- **Lancement d'un apllication sur IOS** : Frontend IOS natif avec Swift & Backend avec Supabase/node 
-- **Ai Engineering** : Renforcer mes compétences sur des concepts clés : Few-Shot Learning,Structured outputs(JSON) 
-- **Sécurité** : Apprendre et utiliser Snyk AI et pour la détection de vulnérabilités et CodeQL pour l'analyse statique. 
-- **Docker** : Approfondir mes connaissances, faciliter le partage. 
+Aujourd’hui, beaucoup d’applications “ajoutent de l’IA”.
 
-## 🔧 Stack Technique
+Mon objectif est différent : intégrer les bonnes briques d’IA au bon endroit pour produire un gain réel côté utilisateur ou côté métier.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker,sequelize,js,postgres,svelte,react,swift,supabase)](https://skillicons.dev)
+Je m’intéresse particulièrement à :
 
-- **Backend** : Node.js, Express, Postman
-- **Frontend** : Sveltekit, React, Swift
-- **Databases** : PostgreSQL, Sequelize
-- **AI/ML** : Claude.ai, Perplexity
-- **DevOps** : Docker, Méthode Agile, Git
+- l’automatisation intelligente de workflows  
+- la génération de contenu à l’échelle  
+- la personnalisation d’expérience utilisateur  
+- l’intégration propre de l’IA dans des architectures web modernes  
+
+---
+
+## Projet principal — UpNews
+
+Application mobile iOS qui diffuse des bonnes nouvelle sur des sujets positifs incluant l'écologie, le social, les sciences et la culture via un widget iOS. L'application offre du contenu en multi-formats (texte, audio, visuel/animation 2D), et propose un système de gamification via le déblocage de petits compagnons. 
+
+### Comment fonctionne le projet
+
+- collecte et filtrage automatisé d’actualités  
+- pipeline de génération multi-formats (texte, audio, visuel)  
+- catégorisation intelligente  
+- personnalisation du contenu  
+- intégration sur widget iOS
+
+### Ce que ce projet démontre
+
+- conception d’une pipeline IA de bout en bout  
+- intégration full-stack cohérente  
+- réflexion produit orientée utilisateur  
+- automatisation avec faible intervention manuelle  
+
+---
+
+
+## Stack Technique 
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,docker,sequelize,js,postgres,svelte,react,swift,supabase)](https://skillicons.dev) 
+
+- **Backend** : Node.js, Express, Postman 
+- **Frontend** : Sveltekit, React, Swift 
+- **Databases** : PostgreSQL, Sequelize 
+- **AI/ML** : Claude.ai, Perplexity 
+- **DevOps** : Docker, Méthode Agile, Git 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinColombat&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-## 🚀 Projets en cours
+## Axes d’approfondissement actuels
 
-- **Up News** : Application mobile iOS qui diffuse des bonnes nouvelle sur des sujets positifs incluant l'écologie, le social, les sciences et la culture via un widget iOS. L'application du contenu en multi-formats (texte, audio, visuel/animation 2D), et propose un système de gamification avec points et carte du monde interactive à débloquer.
-  
-- **Portfolio personnel** : Apprentissage de React & Typescript pour créer et gérer mon portfolio personnel [cliquez ici pour voir le site](https://valentincolombat.netlify.app)
-
----
-
-## 🌱 Ce que j'apprends en ce moment
-
-- Docker : Docker Compose pour orchestrer multi-conteneurs
-- React : React Server Components (RSC)
-- Swift : SwiftUI pour interfaces déclaratives modernes
-- WidgetKit : Interactive Widgets (iOS 17+)
-- Supabase : Row Level Security (RLS) policies 
+- architecture d’intégration IA dans applications modernes  
+- structured outputs et few-shot learning  
+- Docker Compose et environnements reproductibles  
+- SwiftUI et WidgetKit  
+- sécurité applicative  
 
 ---
 
-## 🤝 Contact & Collaboration
+## Ce que je recherche
 
-- 📧 **Email** : valentincolombat@gmail.com
-- 💼 **LinkedIn** : [valentin-colombat](https://www.linkedin.com/in/valentin-colombat/)
-- 🎯 **Ouvert à** : projets collaboratifs, échanges techniques, proposition de poste
+Un poste au sein d’une équipe produit où je peux :
+
+- prendre en charge des fonctionnalités concrètes  
+- continuer à monter rapidement en compétences  
+- contribuer à des produits utiles  
+- approfondir l’intégration d’IA dans des cas d’usage réels  
+
+Ouvert à différents environnements (startup, PME, produit tech) tant que la bienveillance et l'évolution commune fait partie de vos valeurs.
 
 ---
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ValentinColombat&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinColombat&theme=radical&hide_border=false)<br/>
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/valentin-colombat/
+
+Email  
+valentincolombat@gmail.com
 
 ---
-*Dernière mise à jour: Novembre 2025*
+
+## Statistiques GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=ValentinColombat&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinColombat&theme=radical)
+
+---
+
+Disponible pour échanger autour de projets IA, automatisation et produit.
